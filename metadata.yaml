@@ -1,0 +1,27 @@
+_repo: '---_25422'
+_version: 0.1.0
+alternative_title: Yu Lou Chun
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baiyundaoren
+    aliases:
+    - 白雲道人
+    - 白云道人
+    gutenberg_agent_id: '31326'
+    url: http://www.gutenberg.org/2009/agents/31326
+description: ''
+gutenberg_issued: '2008-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25422'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+title: 玉樓春
+url: http://www.gutenberg.org/ebooks/25422
